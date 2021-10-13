@@ -1,0 +1,7 @@
+dgl-cu111
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+torch-geometric
+ogb
